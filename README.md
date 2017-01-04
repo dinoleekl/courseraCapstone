@@ -1,2 +1,2 @@
-# courseraCapstone
-Materials for Coursera Data Science Specialization Capstone project
+# Coursera Data Science Specialization: Capstone project
+Materials for the project
